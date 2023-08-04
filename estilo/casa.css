@@ -7,21 +7,22 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
-    width: 100vw;
-}
 
-::-webkit-scrollbar  {
+::-webkit-scrollbar {
     width: 0px;
     height: 0px;
 }
 
 a {
-    background-color: red;
+    background-color: darkred;
     color: white;
     text-align: center;
     display: block;
     pad: 20px;
     font-weight: bolder;
     text-decoration: none;
+}
+
+a:hover {
+    background-color: red;
 }

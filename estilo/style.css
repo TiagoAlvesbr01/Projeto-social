@@ -33,7 +33,7 @@ main {
     height: 500px;
     width: 500px;
     background-color: rgb(103, 8, 8);  
-    background:url(../imagens/frame-iphone.png) no-repeat;
+    background:url(../imagens/frame2.png) no-repeat;
 }
 
 iframe#tela {
